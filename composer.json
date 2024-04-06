@@ -1,0 +1,15 @@
+{
+    "name": "app/src",
+    "description": "aula abstração",
+    "autoload": {
+        "psr-4": {
+            "App\\Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MagyoDev"
+        }
+    ],
+    "require": {}
+}
